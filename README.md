@@ -1,4 +1,4 @@
-#Introduction
+Introduction
 
 This module allows GM's of the PF2E system to quickly create NPC's.  It will add a button called 'NPC Generator' to your actors page.  
 
@@ -19,4 +19,3 @@ At the moment, the commoner class selection only has human commoner tokens.  I w
 -- The module also creates a random background for your NPC in the Backstory section of the Biography.  This is to help spark DM imagination in a pinch.  Use or ignore whatever elements you wish.
 
 
-Have any questions or feature requests?  Hit me up on discord pbaiani#6577
